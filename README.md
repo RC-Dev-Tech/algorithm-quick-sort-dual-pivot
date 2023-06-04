@@ -40,7 +40,7 @@
 ---
 
 ## 參考資料
-* [RUNNOOB - 双路快速排序](https://www.runoob.com/data-structures/2way-quick-sort.html)<br>
+* [RUNOOB - 双路快速排序](https://www.runoob.com/data-structures/2way-quick-sort.html)<br>
 
 ---
 
